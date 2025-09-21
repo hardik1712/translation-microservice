@@ -1,5 +1,4 @@
-# translation-microservice
-$readme = @'
+
 # Translation Microservice
 
 A Flask-based microservice that provides mock translation functionality for multiple Indian languages.
